@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the official blog of sync.
+Keep up to date with all the news of new updates, development progress and more.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+For more news or information, reach out at <a style="color: #8C5EC1" href="mailto:me@alecchan.io">me@alecchan.io</a> or hop on our <a style="color: #8C5EC1" href="https://discordapp.com/invite/y2ve7Yw">Discord server</a> and say hi!
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)

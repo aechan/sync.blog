@@ -1,10 +1,14 @@
+html {
+    background-color: #222;
+}
+
 /**
  * Site header
  */
 .site-header {
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    background-color: #515865;
+    background-color: #222;
 
     .menu-icon {
         display: none;
@@ -49,7 +53,7 @@
 
     &,
     &:visited {
-        color: $background-color;
+        color: $nav-color;
     }
 }
 .site-nav {
@@ -60,7 +64,8 @@
         color: $background-color;
         line-height: $base-line-height;
         font-weight: 700;
-
+        text-decoration: none; 
+        border-bottom: 3px solid $nav-color;
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
@@ -111,6 +116,8 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: #222;
+    color: $background-color;
 }
 .copy {
     float: left;
